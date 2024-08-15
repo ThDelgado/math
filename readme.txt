@@ -2,3 +2,5 @@
  Thelma Delgado
 
  calculo sencillo utilizando modulos
+
+ para clonarhttps://github.com/ThDelgado/math.git
